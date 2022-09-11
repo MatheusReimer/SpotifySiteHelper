@@ -5,7 +5,7 @@
         ],
         "target": {
             "namespace": "android_app",
-            "package_name": "fr.smarquis.applinks",
+            "package_name": "com.example.songapp",
             "sha256_cert_fingerprints": [
                 "2E:C4:6D:74:19:04:FB:6D:21:FC:3B:E1:91:DB:F3:54:40:28:6F:A1:32:B5:EC:05:2B:57:A8:FB:EC:A3:3A:5D"
             ]
