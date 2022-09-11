@@ -18,7 +18,7 @@ function Musiquizz() {
     return (
       <div className="container">
             <div className="button">
-                <a href="musiquizz://">Redirect to Spotify</a>
+                <a href="musiquizz://app">Redirect to Spotify</a>
             </div>
       </div>
       );
